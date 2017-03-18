@@ -1,11 +1,11 @@
 # Inventory
 #### Technologies: ASP, VBScript, HTML, CSS, MS SQL Server
-### [All Saints' Catholic Academy] (http://www.allsaints.notts.sch.uk) - Built on 26/11/2013
+### [All Saints' Catholic Academy](http://www.allsaints.notts.sch.uk) - Built on 26/11/2013
 
 ## Index
-* [Installation] (#Install)
-* [Usage] (#Usage)
-* [Screen Shots] (#Shots)
+* [Installation](#Install)
+* [Usage](#Usage)
+* [Screen Shots](#Shots)
 
 ## Challenege
 A web-based Inventory system where users can search for items by their asset tags, description, make, model, supplier, order number, location, purchase date, status, serial number or by clicking on the room image. The system keeps track of all ICT assets with their depreciation values attached. The system can also be used as a stock check facility where the user can scan the asset barcode. Loaned item information can also be attached to an asset.
